@@ -21,7 +21,7 @@ To compile and run any of the source files, ensure you have a C++ compiler such 
 1. **Compile**:
 ```bash
 g++ filename.cpp -o filename
-Execute:
+2. **Execute**:
 
-Bash
+```bash
 ./filename
