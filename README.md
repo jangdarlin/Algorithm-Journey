@@ -18,11 +18,13 @@ This repository serves as a personal archive for practicing C++ algorithms. It i
 ## Compilation and Execution
 
 1. Compile:
-```
-bash
+
+```bash
 g++ filename.cpp -o filename
+```
 
 2. Execute:
-```
-Bash
+
+```bash
 ./filename
+```
